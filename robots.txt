@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oklexcir.github.io/sitemap.oklexcir.gz
+Sitemap: https://oklexcir.github.io/app/sitemap.oklexcir.gz
+Sitemap: https://oklexcir.github.io/assets/sitemap.oklexcir.gz
+Sitemap: https://oklexcir.github.io/css/sitemap.oklexcir.gz
+Sitemap: https://oklexcir.github.io/data/sitemap.oklexcir.gz
+Sitemap: https://oklexcir.github.io/includes/sitemap.oklexcir.gz
+Sitemap: https://oklexcir.github.io/item/sitemap.oklexcir.gz
+Sitemap: https://oklexcir.github.io/src/sitemap.oklexcir.gz
